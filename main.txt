@@ -1,3 +1,4 @@
 main
+new-sub3
 sub1
 sub2
