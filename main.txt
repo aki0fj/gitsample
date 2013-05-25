@@ -1,4 +1,4 @@
 main
-new-sub3
+new-sub3.2
 sub1
 sub2
